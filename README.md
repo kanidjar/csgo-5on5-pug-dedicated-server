@@ -10,7 +10,7 @@
 ### Installation
 
 ```sh
-$ docker run -p 27015:27015/udp -p 27015:27015/tcp -ti --name csgo-5on5-ds kevin-anidjar/csgo-5on5-pug-dedicated-server
+$ docker run -p 27015:27015/udp -p 27015:27015/tcp -ti --name csgo-5on5-ds kevinanidjar/csgo-5on5-pug-dedicated-server
 ```
 
 ### Server administration
